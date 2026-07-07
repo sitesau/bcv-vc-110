@@ -1,0 +1,22 @@
+{
+  "wheel_id": 119,
+  "slug": "bcv-vc-110",
+  "project": "brisbane-conveyancers-costs-bv-110",
+  "parent_t1_ref": "bcv-vc-001",
+  "node_role": "feeder",
+  "money_target": "brisbaneconveyancers.net.au",
+  "primary_kw": "brisbane conveyancers costs",
+  "intended_url": "https://sitesau.github.io/bcv-vc-110/",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/bcv-vc-150/",
+      "anchor": "brisbane conveyancers",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://sitesau.github.io/bcv-vc-150/",
+      "anchor": "brisbane conveyancers",
+      "rel": "follow"
+    }
+  ]
+}
